@@ -1,0 +1,124 @@
+.card{
+    width: 250px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 10px gray;
+}
+.img img {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+}
+.content{
+    text-align: center;
+    padding: 10px;
+}
+.div{
+    color: brown;
+    padding-top: 10px;
+}
+
+#bordor{
+    display: flex;
+}
+.bor,.bor1,.bor2{
+    width: 250px;
+    height: 80px;
+    text-align: center;
+    display: flexj;
+    justify-content: center;
+    border: 1px solid black;
+    background-color: aquamarine;
+    overflow: hidden;
+    
+}
+
+
+.card1{
+    width: 250px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 10px gray;
+}
+.img1 img {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+}
+.content1{
+    text-align: center;
+    padding: 10px;
+}
+.div1{
+    color: brown;
+    padding-top: 10px;
+}
+#bordor1{
+    display: flex;
+}
+.bor3,.bor4,.bor5{
+    width: 250px;
+    height: 80px;
+    text-align: center;
+    display: flexj;
+    justify-content: center;
+    border: 1px solid black;
+    background-color:darkmagenta;
+    overflow: hidden;
+    
+}
+
+
+.card2{
+    width: 250px;
+    height: 500px;
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 5px 10px gray;
+}
+.img2 img {
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+}
+.content2{
+    text-align: center;
+    padding: 10px;
+}
+.div2{
+    color: brown;
+    padding-top: 10px;
+}
+#bordor2{
+    display: flex;
+}
+.bor6,.bor7,.bor8{
+    width: 250px;
+    height: 80px;
+    text-align: center;
+    display: flexj;
+    justify-content: center;
+    border: 1px solid black;
+    background-color:chartreuse;
+    overflow: hidden;
+    
+}
+#webpage{
+    display: flex;
+    justify-content:space-evenly;
+    margin-top: 100px;
+
+}
+
+body{
+    background-image: url(images\ \(1\).jfif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
